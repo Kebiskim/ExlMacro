@@ -1,0 +1,10 @@
+# Ignore virtual environment folder
+venv/
+
+# Other potential ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
