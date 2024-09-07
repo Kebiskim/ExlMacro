@@ -1,8 +1,8 @@
 /ExlMacro
-|-- venv/
 |-- src/
-|   |-- index.html              // Main HTML file
 |-- ui/
-|   |-- style.css               // CSS for styling the UI
-|   |-- renderer.js             // Renderer script for handling UI events and IPC communication
+|   |-- index.html              // Main HTML file
+|-- venv/
+|-- .gitignore
+|-- folStructure.txt
 |-- main.py
